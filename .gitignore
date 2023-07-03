@@ -7,7 +7,7 @@
 
 # Arquivos de ambiente
 .env
-.env.*
+# .env.*
 
 # Arquivos de log
 logs
